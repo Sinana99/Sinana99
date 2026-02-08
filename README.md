@@ -28,5 +28,6 @@
 ## Connect with me
 <p align="left">
 <a href="https://x.com/Celiksei"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="scelik.me@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </p>
