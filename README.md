@@ -1,6 +1,6 @@
 # Hi there, I'm Sinan 👋
 
-### 📍 Helsinki | 🤖 AI Researcher | 🚀 Founder | MS in Information Systems
+### 📍 Helsinki | AI Researcher | Founder | MS in Information Systems
 
 **I am a developer and founder focused on Applied AI.** I build autonomous agents and research cross-domain AI applications. With **5+ years in AI dev** and **7+ years in SWE**, I’m accelerating the singularity by shipping tools that actually work.
 
