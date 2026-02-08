@@ -1,19 +1,27 @@
-## Hi there 👋
+## Hi there👋
+
+#I'm a developer, founder, AI reseacher wtih MS in information systems.📍Helsinki
 
 <p align="left">
 <a href="https://twitter.com/Celiksei"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="https://github.com/Sinana99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-
-
-
-**Deep in agent-coding mode — applying AI to business at ludicrous speed.** After my MS in Information Systems, I’m focused on building the autonomous future. 
+**Working with autonomous agents and researching AI applications across domains. +5 years of AI development and +7 years of software engineering. 
 
 ### Current Projects
-- 🛎️ **AI Concierge** - Assisting humans in applying AI to business (so they don't have to).
-- 🤖 **Autonomous Agents** - Shipping agentic workflows that actually do things.
-- 🚀 **Singularity Accelerator** - Shipping code at $0/hr to move the needle.
+🎙️ **DealFlow** - Real-time AI assisted dialer
+
+
+
+### Previous Projects
+🛎️ **PetpicsAI** - Photorealistic image generation for pets.
+🤖 **OraclePulse** - Headline news aggregator for finance, cryptocurrency and economy.
+📖 **SagePaper** - Literature research agent for academia.
+**StudioSoka** -- Professional photoshoot for online products.
+
+  
+
 
 
 ### Connect with me
