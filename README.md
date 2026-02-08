@@ -1,30 +1,32 @@
-## Hi there👋
+# Hi there, I'm Sinan 👋
 
-**I'm a developer, founder, AI reseacher wtih MS in information systems. Working on Applied AI📍Helsinki**
+### 📍 Helsinki | 🤖 AI Researcher | 🚀 Founder | MS in Information Systems
 
+**I am a developer and founder focused on Applied AI.** I build autonomous agents and research cross-domain AI applications. With **5+ years in AI dev** and **7+ years in SWE**, I’m accelerating the singularity by shipping tools that actually work.
+
+---
+
+## Current Projects
+| Project | Description |
+| :--- | :--- |
+| 🎙️ **DealFlow** | Real-time AI assisted dialer for high-velocity sales. |
+| 📖 **SagePaper** | Literature research agent designed for academia. |
+| 🛏️ **EmailAgent** | Autonomous, hyper-personalized email marketing engine. |
+
+---
+
+## Previous Projects
+| Project | Description |
+| :--- | :--- |
+| 🛎️ **PetpicsAI** | Photorealistic image generation for pets. |
+| 🤖 **OraclePulse** | Headline news aggregator for finance, crypto, and economy. |
+| 📝 **StudioSoka** | Professional AI-driven photoshoots for online products. |
+| 🧑‍💻 **TaskionPos** | Enterprise-grade Point of Sale system. |
+
+---
+
+## Connect with me
 <p align="left">
-<a href="https://twitter.com/Celiksei"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="https://github.com/Sinana99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://x.com/Celiksei"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+
 </p>
-
-**Working with autonomous agents and researching AI applications across domains. +5 years of AI development and +7 years of software engineering.**
-
-### Current Projects
-🎙️ **DealFlow** - Real-time AI assisted dialer
-📖 **SagePaper** - Literature research agent for academia.
-🛏️ **EmailAgent** - Autonomous hyper personalized email marketer.
-
-
-
-
-### Previous Projects
-🛎️ **PetpicsAI** - Photorealistic image generation for pets.
-🤖 **OraclePulse** - Headline news aggregator for finance, cryptocurrency and economy.
-📝 **StudioSoka** -- Professional photoshoot for online products.
-🧑‍💻 **TaskionPos** -- Enterprise POS system.
-
-  
-
-
-
-### Connect with me
