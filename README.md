@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!--
-**Sinana99/Sinana99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p align="left">
+<a href="https://twitter.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://github.com/Sinana99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
