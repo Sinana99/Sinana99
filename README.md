@@ -1,6 +1,6 @@
 # Hi there, I'm Sinan 👋
 
-### 📍 Helsinki | AI Researcher | Founder | MS in Information Systems
+### 📍 Helsinki | Founder | MS in Information Systems
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-**I am a developer and founder focused on Applied AI.** I build autonomous agents and research cross-domain AI applications.
+**I am a developer and founder focused on Applied AI.** Been AI consultant for 2 years and now focusing on building AI native sales platform.
 **5+ years in AI dev** and **7+ years in SWE**
 
 ---
