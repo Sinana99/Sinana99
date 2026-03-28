@@ -20,9 +20,10 @@
 ## Current Projects
 | Project | Description |
 | :--- | :--- |
-| 🎙️ **DealFlow** | Real-time AI assisted dialer for high-velocity sales. |
-| 📖 **SagePaper** | Literature research agent designed for academia. |
-| 🛏️ **EmailAgent** | Autonomous, hyper-personalized email marketing engine. |
+| **LexAgent** | AI-powered regulatory intelligence agent for small modular reactors. |
+| **DealFlow** | Real-time AI assisted dialer for guided sales. |
+| **SagePaper** | Literature research agent designed for academia. |
+| **EmailAgent** | Autonomous, hyper-personalized email marketing engine. |
 
 ---
 
