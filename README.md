@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-**I am a developer and founder focused on Applied AI.** Been AI consultant for 2 years and now focusing on building AI native sales platform.
+**I am a developer and founder focused on Applied AI.** Been AI consultant for 2 years and now focusing on building agentic workflows.
 **5+ years in AI dev** and **7+ years in SWE**
 
 ---
