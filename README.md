@@ -20,6 +20,7 @@
 ## Current Projects
 | Project | Description |
 | :--- | :--- |
+| **[FlowDial](https://flowdial.io/en/)** | Finnish B2B lead database with verified contacts, company data, and buying signals. |
 | **LexAgent** | AI-powered regulatory intelligence agent for small modular reactors. |
 | **DealFlow** | Real-time AI assisted dialer for guided sales. |
 | **SagePaper** | Literature research agent designed for academia. |
@@ -40,6 +41,6 @@
 ## Connect with me
 <p align="left">
 <a href="https://x.com/Celiksei"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="scelik.me@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:scelik.me@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </p>
